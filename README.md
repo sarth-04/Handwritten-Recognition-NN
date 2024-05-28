@@ -1,6 +1,3 @@
-Here's the revised README file with the specified email and without the license section:
-
----
 
 # Neural Network Checkpoint
 
@@ -149,5 +146,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## Contact
 If you have any questions or suggestions, feel free to contact me at [sarthakingle04@gmail.com](mailto:sarthakingle04@gmail.com).
 
----
 
